@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "69f634ab5dc03d28a5bfcb2d"
+  },
+  "ten_lop": "Lớp điều dưỡng 1",
+  "anh_lop": "/uploads/images/1777772769803-576155878.png",
+  "ma_lop_random": "G116BF",
+  "id_giaovien": {
+    "$oid": "69f4e022019d2965e7e5f4b3"
+  },
+  "si_so_toi_da": 50,
+  "ngay_bat_dau": {
+    "$date": "2026-05-02T17:30:19.241Z"
+  },
+  "maKey": "B27A4F",
+  "danh_sach_hoc_vien": [
+    {
+      "id_hoc_vien": {
+        "$oid": "69f5e2501e7ede7882930481"
+      },
+      "trang_thai_phe_duyet": "cho_phe_duyet",
+      "_id": {
+        "$oid": "69f634e65dc03d28a5bfcb2f"
+      },
+      "ngay_vao_lop": {
+        "$date": "2026-05-02T17:31:18.610Z"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "69f634b95dc03d28a5bfcb2e"
+  },
+  "ten_lop": "Lớp điều dưỡng 2",
+  "anh_lop": "/uploads/images/1777772760302-35743088.jpg",
+  "ma_lop_random": "KB7QDG",
+  "id_giaovien": {
+    "$oid": "69f4e022019d2965e7e5f4b3"
+  },
+  "si_so_toi_da": 50,
+  "ngay_bat_dau": {
+    "$date": "2026-05-02T17:30:33.577Z"
+  },
+  "maKey": "386665",
+  "danh_sach_hoc_vien": [
+    {
+      "id_hoc_vien": {
+        "$oid": "69f5e2501e7ede7882930481"
+      },
+      "trang_thai_phe_duyet": "da_tham_gia",
+      "_id": {
+        "$oid": "69f635215dc03d28a5bfcb32"
+      },
+      "ngay_vao_lop": {
+        "$date": "2026-05-02T17:32:17.676Z"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "69f6a87b5a5c6293fcb672dc"
+  },
+  "ten_lop": "Lớp điều dưỡng 3",
+  "anh_lop": "/uploads/images/1777772662809-970173020.jpg",
+  "ma_lop_random": "THB8WL",
+  "id_giaovien": {
+    "$oid": "69f4e022019d2965e7e5f4b3"
+  },
+  "si_so_toi_da": 100,
+  "ngay_bat_dau": {
+    "$date": "2026-05-03T01:44:27.126Z"
+  },
+  "maKey": "976C47",
+  "danh_sach_hoc_vien": [
+    {
+      "id_hoc_vien": {
+        "$oid": "69f5e2501e7ede7882930481"
+      },
+      "trang_thai_phe_duyet": "da_tham_gia",
+      "_id": {
+        "$oid": "69f8039a020b84b22e9ebde5"
+      },
+      "ngay_vao_lop": {
+        "$date": "2026-05-04T02:25:30.989Z"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "69f799bf21a799c09f6f582c"
+  },
+  "ten_lop": "Lớp học gv Anh Duy",
+  "anh_lop": "/uploads/images/1777834412698-270953071.png",
+  "ma_lop_random": "SCBOIV",
+  "id_giaovien": {
+    "$oid": "69f794849f783c12dc131045"
+  },
+  "si_so_toi_da": 20,
+  "ngay_bat_dau": {
+    "$date": "2026-05-03T18:53:51.655Z"
+  },
+  "maKey": "8A0813",
+  "danh_sach_hoc_vien": [],
+  "__v": 0
+}]

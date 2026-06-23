@@ -1,0 +1,311 @@
+[{
+  "_id": {
+    "$oid": "69f765615d4502326e4998e3"
+  },
+  "id_lop_hoc": {
+    "$oid": "69f634b95dc03d28a5bfcb2e"
+  },
+  "ten_bai_giang": "Bài giảng số 1",
+  "anhDaiDien": "/uploads/images/1777821019775-21717462.jpg",
+  "noi_dung_bai_hoc": "<p>B&agrave;i giảng số 1</p>\n<p>B&agrave;i giảng số 1</p>\n<p>B&agrave;i giảng số 1</p>",
+  "danhSachCauHoi": [
+    {
+      "noiDungCauHoi": "<p>2 + 2 bang bao nhieu</p>",
+      "cacDapAn": [
+        {
+          "noiDungDapAn": "3",
+          "laDapAnDung": false,
+          "_id": {
+            "$oid": "69f765685d4502326e4998ed"
+          }
+        },
+        {
+          "noiDungDapAn": "4",
+          "laDapAnDung": true,
+          "_id": {
+            "$oid": "69f765685d4502326e4998ee"
+          }
+        },
+        {
+          "noiDungDapAn": "5",
+          "laDapAnDung": false,
+          "_id": {
+            "$oid": "69f765685d4502326e4998ef"
+          }
+        },
+        {
+          "noiDungDapAn": "6",
+          "laDapAnDung": false,
+          "_id": {
+            "$oid": "69f765685d4502326e4998f0"
+          }
+        }
+      ],
+      "giaiThich": "<p>Con so nao la so chan</p>",
+      "_id": {
+        "$oid": "69f76743637c822b3a1bbe8d"
+      }
+    },
+    {
+      "noiDungCauHoi": "Con so nao la so chan",
+      "cacDapAn": [
+        {
+          "noiDungDapAn": "1",
+          "laDapAnDung": false,
+          "_id": {
+            "$oid": "69f765685d4502326e4998f2"
+          }
+        },
+        {
+          "noiDungDapAn": "2",
+          "laDapAnDung": true,
+          "_id": {
+            "$oid": "69f765685d4502326e4998f3"
+          }
+        },
+        {
+          "noiDungDapAn": "3",
+          "laDapAnDung": false,
+          "_id": {
+            "$oid": "69f765685d4502326e4998f4"
+          }
+        },
+        {
+          "noiDungDapAn": "5",
+          "laDapAnDung": false,
+          "_id": {
+            "$oid": "69f765685d4502326e4998f5"
+          }
+        }
+      ],
+      "giaiThich": "Ngay dep nhat trong tuan la ngay nao",
+      "_id": {
+        "$oid": "69f76743637c822b3a1bbe92"
+      }
+    },
+    {
+      "noiDungCauHoi": "Ngay dep nhat trong tuan la ngay nao",
+      "cacDapAn": [
+        {
+          "noiDungDapAn": "Chu nhat",
+          "laDapAnDung": true,
+          "_id": {
+            "$oid": "69f765685d4502326e4998f7"
+          }
+        },
+        {
+          "noiDungDapAn": "Thu bay",
+          "laDapAnDung": false,
+          "_id": {
+            "$oid": "69f765685d4502326e4998f8"
+          }
+        },
+        {
+          "noiDungDapAn": "Thu hai",
+          "laDapAnDung": false,
+          "_id": {
+            "$oid": "69f765685d4502326e4998f9"
+          }
+        },
+        {
+          "noiDungDapAn": "Thu nam",
+          "laDapAnDung": false,
+          "_id": {
+            "$oid": "69f765685d4502326e4998fa"
+          }
+        }
+      ],
+      "giaiThich": "Mot nam co bao nhieu thang",
+      "_id": {
+        "$oid": "69f76743637c822b3a1bbe97"
+      }
+    }
+  ],
+  "thoi_gian_lam_bai": 15,
+  "giaBaiGiang": 0,
+  "maBaiGiang": "C42554",
+  "ngay_tao": {
+    "$date": "2026-05-03T15:10:25.043Z"
+  },
+  "__v": 18
+},
+{
+  "_id": {
+    "$oid": "69f799e521a799c09f6f582d"
+  },
+  "id_lop_hoc": {
+    "$oid": "69f799bf21a799c09f6f582c"
+  },
+  "ten_bai_giang": "Bài giảng của Anh Duy",
+  "anhDaiDien": "/uploads/images/1777834457664-752006580.png",
+  "gioiThieu": "Bài giảng của Anh Duy",
+  "noi_dung_bai_hoc": "<p>B&agrave;i giảng của Anh Duy</p>",
+  "danhSachCauHoi": [
+    {
+      "noiDungCauHoi": "<p>trời h&ocirc;m nay c&oacute; mưa kh&ocirc;ng</p>",
+      "cacDapAn": [
+        {
+          "noiDungDapAn": "Không",
+          "laDapAnDung": false,
+          "_id": {
+            "$oid": "69f7a70d020b84b22e9ebb66"
+          }
+        },
+        {
+          "noiDungDapAn": "Có",
+          "laDapAnDung": true,
+          "_id": {
+            "$oid": "69f7a70d020b84b22e9ebb67"
+          }
+        }
+      ],
+      "giaiThich": "",
+      "_id": {
+        "$oid": "69f7a975020b84b22e9ebc97"
+      }
+    },
+    {
+      "noiDungCauHoi": "<p><img src=\"http://localhost:8821/uploads/images/1777837826655-210671702.png\" alt=\"Sua-thumb-tai-day.png\" width=\"400\" height=\"250\"></p>",
+      "cacDapAn": [
+        {
+          "noiDungDapAn": "12",
+          "laDapAnDung": false,
+          "_id": {
+            "$oid": "69f7a70d020b84b22e9ebb69"
+          }
+        },
+        {
+          "noiDungDapAn": "21",
+          "laDapAnDung": true,
+          "_id": {
+            "$oid": "69f7a70d020b84b22e9ebb6a"
+          }
+        }
+      ],
+      "giaiThich": "<p>iỗi&middot;&ocirc;&middot;ol</p>",
+      "_id": {
+        "$oid": "69f7a975020b84b22e9ebc9a"
+      }
+    },
+    {
+      "noiDungCauHoi": "<p>h&ocirc;m nay ăn g&igrave;</p>",
+      "cacDapAn": [
+        {
+          "noiDungDapAn": "Cơm",
+          "laDapAnDung": true,
+          "_id": {
+            "$oid": "69f7a803020b84b22e9ebbe1"
+          }
+        },
+        {
+          "noiDungDapAn": "Nhịn",
+          "laDapAnDung": false,
+          "_id": {
+            "$oid": "69f7a803020b84b22e9ebbe2"
+          }
+        }
+      ],
+      "giaiThich": "<p>ăn g&igrave; th&igrave; ăn</p>",
+      "_id": {
+        "$oid": "69f7a975020b84b22e9ebc9d"
+      }
+    },
+    {
+      "noiDungCauHoi": "<p>c&acirc;u 1</p>\n<p>c&acirc;u 2</p>\n<p>chọn đ&aacute;p &aacute;n đ&uacute;ng</p>",
+      "cacDapAn": [
+        {
+          "noiDungDapAn": "câu 1",
+          "laDapAnDung": false,
+          "_id": {
+            "$oid": "69f7a975020b84b22e9ebca1"
+          }
+        },
+        {
+          "noiDungDapAn": "câu 2",
+          "laDapAnDung": true,
+          "_id": {
+            "$oid": "69f7a975020b84b22e9ebca2"
+          }
+        }
+      ],
+      "giaiThich": "<p>c&acirc;u 1</p>\n<p>c&acirc;u 2</p>",
+      "_id": {
+        "$oid": "69f7a975020b84b22e9ebca0"
+      }
+    }
+  ],
+  "thoi_gian_lam_bai": 15,
+  "giaBaiGiang": 0,
+  "maBaiGiang": "E3E039",
+  "ngay_tao": {
+    "$date": "2026-05-03T18:54:29.170Z"
+  },
+  "__v": 22
+},
+{
+  "_id": {
+    "$oid": "69f802f2020b84b22e9ebd88"
+  },
+  "id_lop_hoc": {
+    "$oid": "69f6a87b5a5c6293fcb672dc"
+  },
+  "ten_bai_giang": "Bài giảng của tôi",
+  "anhDaiDien": "/uploads/images/1777861333308-253625052.jpg",
+  "gioiThieu": "Bài giảng của tôi",
+  "noi_dung_bai_hoc": "<p>B&agrave;i giảng của t&ocirc;i</p>\n<p>B&agrave;i giảng của t&ocirc;i</p>\n<p><img src=\"http://localhost:8821/uploads/images/1777861354037-877778116.jpg\" alt=\"\" width=\"600\" height=\"400\"></p>",
+  "danhSachCauHoi": [
+    {
+      "noiDungCauHoi": "<p>H&ocirc;m nay ăn g&igrave;?</p>\n<p><img src=\"http://localhost:8821/uploads/images/1777861387224-843413170.jpg\" alt=\"3.jpg\" width=\"400\" height=\"267\"></p>",
+      "cacDapAn": [
+        {
+          "noiDungDapAn": "Cơm cá",
+          "laDapAnDung": false,
+          "_id": {
+            "$oid": "69f8033e020b84b22e9ebd8a"
+          }
+        },
+        {
+          "noiDungDapAn": "Cơm rau",
+          "laDapAnDung": true,
+          "_id": {
+            "$oid": "69f8033e020b84b22e9ebd8b"
+          }
+        }
+      ],
+      "giaiThich": "",
+      "_id": {
+        "$oid": "69f8033e020b84b22e9ebd89"
+      }
+    },
+    {
+      "noiDungCauHoi": "<p>Xem video chọn đ&aacute;p &aacute;n</p>\n<p><video controls=\"controls\" width=\"300\" height=\"150\">\n<source src=\"http://localhost:8821/uploads/videos/1777861421335-784488678.mp4\" type=\"video/mp4\"></video></p>",
+      "cacDapAn": [
+        {
+          "noiDungDapAn": "OK",
+          "laDapAnDung": false,
+          "_id": {
+            "$oid": "69f8033e020b84b22e9ebd8d"
+          }
+        },
+        {
+          "noiDungDapAn": "NO",
+          "laDapAnDung": true,
+          "_id": {
+            "$oid": "69f8033e020b84b22e9ebd8e"
+          }
+        }
+      ],
+      "giaiThich": "<p>lưu &yacute; ở đ&acirc;y</p>",
+      "_id": {
+        "$oid": "69f8033e020b84b22e9ebd8c"
+      }
+    }
+  ],
+  "thoi_gian_lam_bai": 30,
+  "giaBaiGiang": 0,
+  "maBaiGiang": "FE518A",
+  "ngay_tao": {
+    "$date": "2026-05-04T02:22:42.281Z"
+  },
+  "__v": 1
+}]

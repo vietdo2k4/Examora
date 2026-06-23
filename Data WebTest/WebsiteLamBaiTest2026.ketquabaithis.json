@@ -1,0 +1,277 @@
+[{
+  "_id": {
+    "$oid": "69f768a1afd11e4c3abdfe81"
+  },
+  "id_hoc_sinh": {
+    "$oid": "69f5e2501e7ede7882930481"
+  },
+  "id_bai_giang": {
+    "$oid": "69f765615d4502326e4998e3"
+  },
+  "id_giao_vien": {
+    "$oid": "69f4e022019d2965e7e5f4b3"
+  },
+  "id_lop_hoc": {
+    "$oid": "69f634b95dc03d28a5bfcb2e"
+  },
+  "lan_thi": 1,
+  "thoi_gian_lam_bai": 18,
+  "so_cau_dung": 3,
+  "tong_so_cau": 3,
+  "diem": 10,
+  "chi_tiet_dap_an": [
+    {
+      "id_cau_hoi": {
+        "$oid": "69f76743637c822b3a1bbe8d"
+      },
+      "dap_an_chon": "B",
+      "dap_an_dung": "B",
+      "dung_sai": true,
+      "_id": {
+        "$oid": "69f768a1afd11e4c3abdfe82"
+      }
+    },
+    {
+      "id_cau_hoi": {
+        "$oid": "69f76743637c822b3a1bbe92"
+      },
+      "dap_an_chon": "B",
+      "dap_an_dung": "B",
+      "dung_sai": true,
+      "_id": {
+        "$oid": "69f768a1afd11e4c3abdfe83"
+      }
+    },
+    {
+      "id_cau_hoi": {
+        "$oid": "69f76743637c822b3a1bbe97"
+      },
+      "dap_an_chon": "A",
+      "dap_an_dung": "A",
+      "dung_sai": true,
+      "_id": {
+        "$oid": "69f768a1afd11e4c3abdfe84"
+      }
+    }
+  ],
+  "trang_thai": "da_xem_dap_an",
+  "ngay_lam_bai": {
+    "$date": "2026-05-03T15:24:17.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f77a2e65c25f5c2bd5cd42"
+  },
+  "id_hoc_sinh": {
+    "$oid": "69f5e2501e7ede7882930481"
+  },
+  "id_bai_giang": {
+    "$oid": "69f765615d4502326e4998e3"
+  },
+  "id_giao_vien": {
+    "$oid": "69f4e022019d2965e7e5f4b3"
+  },
+  "id_lop_hoc": {
+    "$oid": "69f634b95dc03d28a5bfcb2e"
+  },
+  "lan_thi": 2,
+  "thoi_gian_lam_bai": 10,
+  "so_cau_dung": 1,
+  "tong_so_cau": 3,
+  "diem": 3.33,
+  "chi_tiet_dap_an": [
+    {
+      "id_cau_hoi": {
+        "$oid": "69f76743637c822b3a1bbe8d"
+      },
+      "dap_an_chon": "A",
+      "dap_an_dung": "B",
+      "dung_sai": false,
+      "_id": {
+        "$oid": "69f77a2e65c25f5c2bd5cd43"
+      }
+    },
+    {
+      "id_cau_hoi": {
+        "$oid": "69f76743637c822b3a1bbe92"
+      },
+      "dap_an_chon": "B",
+      "dap_an_dung": "B",
+      "dung_sai": true,
+      "_id": {
+        "$oid": "69f77a2e65c25f5c2bd5cd44"
+      }
+    },
+    {
+      "id_cau_hoi": {
+        "$oid": "69f76743637c822b3a1bbe97"
+      },
+      "dap_an_chon": "C",
+      "dap_an_dung": "A",
+      "dung_sai": false,
+      "_id": {
+        "$oid": "69f77a2e65c25f5c2bd5cd45"
+      }
+    }
+  ],
+  "trang_thai": "da_nop_bai",
+  "ngay_lam_bai": {
+    "$date": "2026-05-03T16:39:10.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f803d0020b84b22e9ebe45"
+  },
+  "id_hoc_sinh": {
+    "$oid": "69f5e2501e7ede7882930481"
+  },
+  "id_bai_giang": {
+    "$oid": "69f802f2020b84b22e9ebd88"
+  },
+  "id_giao_vien": {
+    "$oid": "69f4e022019d2965e7e5f4b3"
+  },
+  "id_lop_hoc": {
+    "$oid": "69f6a87b5a5c6293fcb672dc"
+  },
+  "lan_thi": 1,
+  "thoi_gian_lam_bai": 10,
+  "so_cau_dung": 0,
+  "tong_so_cau": 2,
+  "diem": 0,
+  "chi_tiet_dap_an": [
+    {
+      "id_cau_hoi": {
+        "$oid": "69f8033e020b84b22e9ebd89"
+      },
+      "dap_an_chon": "A",
+      "dap_an_dung": "B",
+      "dung_sai": false,
+      "_id": {
+        "$oid": "69f803d0020b84b22e9ebe46"
+      }
+    },
+    {
+      "id_cau_hoi": {
+        "$oid": "69f8033e020b84b22e9ebd8c"
+      },
+      "dap_an_chon": "A",
+      "dap_an_dung": "B",
+      "dung_sai": false,
+      "_id": {
+        "$oid": "69f803d0020b84b22e9ebe47"
+      }
+    }
+  ],
+  "trang_thai": "da_xem_dap_an",
+  "ngay_lam_bai": {
+    "$date": "2026-05-04T02:26:24.914Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f803ea020b84b22e9ebe9b"
+  },
+  "id_hoc_sinh": {
+    "$oid": "69f5e2501e7ede7882930481"
+  },
+  "id_bai_giang": {
+    "$oid": "69f802f2020b84b22e9ebd88"
+  },
+  "id_giao_vien": {
+    "$oid": "69f4e022019d2965e7e5f4b3"
+  },
+  "id_lop_hoc": {
+    "$oid": "69f6a87b5a5c6293fcb672dc"
+  },
+  "lan_thi": 2,
+  "thoi_gian_lam_bai": 7,
+  "so_cau_dung": 1,
+  "tong_so_cau": 2,
+  "diem": 5,
+  "chi_tiet_dap_an": [
+    {
+      "id_cau_hoi": {
+        "$oid": "69f8033e020b84b22e9ebd89"
+      },
+      "dap_an_chon": "A",
+      "dap_an_dung": "B",
+      "dung_sai": false,
+      "_id": {
+        "$oid": "69f803ea020b84b22e9ebe9c"
+      }
+    },
+    {
+      "id_cau_hoi": {
+        "$oid": "69f8033e020b84b22e9ebd8c"
+      },
+      "dap_an_chon": "B",
+      "dap_an_dung": "B",
+      "dung_sai": true,
+      "_id": {
+        "$oid": "69f803ea020b84b22e9ebe9d"
+      }
+    }
+  ],
+  "trang_thai": "da_xem_dap_an",
+  "ngay_lam_bai": {
+    "$date": "2026-05-04T02:26:50.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f80914020b84b22e9ec0b5"
+  },
+  "id_hoc_sinh": {
+    "$oid": "69f5e2501e7ede7882930481"
+  },
+  "id_bai_giang": {
+    "$oid": "69f802f2020b84b22e9ebd88"
+  },
+  "id_giao_vien": {
+    "$oid": "69f4e022019d2965e7e5f4b3"
+  },
+  "id_lop_hoc": {
+    "$oid": "69f6a87b5a5c6293fcb672dc"
+  },
+  "lan_thi": 3,
+  "thoi_gian_lam_bai": 8,
+  "so_cau_dung": 2,
+  "tong_so_cau": 2,
+  "diem": 10,
+  "chi_tiet_dap_an": [
+    {
+      "id_cau_hoi": {
+        "$oid": "69f8033e020b84b22e9ebd89"
+      },
+      "dap_an_chon": "B",
+      "dap_an_dung": "B",
+      "dung_sai": true,
+      "_id": {
+        "$oid": "69f80914020b84b22e9ec0b6"
+      }
+    },
+    {
+      "id_cau_hoi": {
+        "$oid": "69f8033e020b84b22e9ebd8c"
+      },
+      "dap_an_chon": "B",
+      "dap_an_dung": "B",
+      "dung_sai": true,
+      "_id": {
+        "$oid": "69f80914020b84b22e9ec0b7"
+      }
+    }
+  ],
+  "trang_thai": "da_xem_dap_an",
+  "ngay_lam_bai": {
+    "$date": "2026-05-04T02:48:52.386Z"
+  },
+  "__v": 0
+}]

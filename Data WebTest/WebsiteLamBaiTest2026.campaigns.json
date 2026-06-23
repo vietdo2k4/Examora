@@ -1,0 +1,1293 @@
+[{
+  "_id": {
+    "$oid": "69fb1c00d92ba4011aa1f341"
+  },
+  "name": "New Campaign",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/bang-xep-hang",
+    "https://vuaquiz.com/cong-dong",
+    "https://vuaquiz.com"
+  ],
+  "concurrency": 1,
+  "stayTime": 25,
+  "clickRate": 0.8,
+  "isActive": false,
+  "status": "idle",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T10:46:24.830Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T10:46:24.838Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T10:46:24.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb1c2ed92ba4011aa1f35d"
+  },
+  "name": "New Campaign",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/bang-xep-hang",
+    "https://vuaquiz.com/cong-dong",
+    "https://vuaquiz.com"
+  ],
+  "concurrency": 1,
+  "stayTime": 30,
+  "clickRate": 0.8,
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T10:47:10.291Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T10:47:10.294Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T10:47:10.294Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb1d1f82ed4e84489fa073"
+  },
+  "name": "New Campaign",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/bang-xep-hang",
+    "https://vuaquiz.com/cong-dong",
+    "https://vuaquiz.com"
+  ],
+  "concurrency": 1,
+  "stayTime": 30,
+  "clickRate": 0.8,
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 12,
+    "successfulClicks": 12,
+    "failedClicks": 0,
+    "todayClicks": 12,
+    "lastResetDate": {
+      "$date": "2026-05-06T11:07:24.710Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T10:51:11.681Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T11:07:24.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb27acd1fea952c99f643d"
+  },
+  "name": "New Campaign",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/bang-xep-hang",
+    "https://vuaquiz.com/cong-dong",
+    "https://vuaquiz.com",
+    "https://vuaquiz.com/mon-marketing-so-82DDC6/bai-tap-de-thi-trac-nghiem-online-mon-marketing-so-de-09-EBC488",
+    "https://vuaquiz.com/mon-marketing-so-82DDC6/bai-tap-de-thi-trac-nghiem-online-mon-marketing-so-de-08-15BFA6",
+    "https://vuaquiz.com/chia-se-tai-lieu",
+    "https://vuaquiz.com/mon-bien-tap-anh-BEECF2/bai-tap-de-thi-trac-nghiem-online-mon-bien-tap-anh-de-10-B7BF9A"
+  ],
+  "concurrency": 2,
+  "stayTime": 15,
+  "clickRate": 0.8,
+  "isActive": false,
+  "status": "idle",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T11:36:12.006Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T11:36:12.014Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T11:36:12.014Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb27af482cac0c58ae837a"
+  },
+  "name": "New Campaign",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/bang-xep-hang",
+    "https://vuaquiz.com/cong-dong",
+    "https://vuaquiz.com",
+    "https://vuaquiz.com/mon-marketing-so-82DDC6/bai-tap-de-thi-trac-nghiem-online-mon-marketing-so-de-09-EBC488",
+    "https://vuaquiz.com/mon-marketing-so-82DDC6/bai-tap-de-thi-trac-nghiem-online-mon-marketing-so-de-08-15BFA6",
+    "https://vuaquiz.com/chia-se-tai-lieu",
+    "https://vuaquiz.com/mon-bien-tap-anh-BEECF2/bai-tap-de-thi-trac-nghiem-online-mon-bien-tap-anh-de-10-B7BF9A"
+  ],
+  "concurrency": 2,
+  "stayTime": 15,
+  "clickRate": 0.8,
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T11:36:15.022Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T11:36:15.030Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T11:36:15.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb2805ddfe0d4fe9d99234"
+  },
+  "name": "New Campaign",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/bang-xep-hang",
+    "https://vuaquiz.com/cong-dong",
+    "https://vuaquiz.com",
+    "https://vuaquiz.com/mon-marketing-so-82DDC6/bai-tap-de-thi-trac-nghiem-online-mon-marketing-so-de-09-EBC488",
+    "https://vuaquiz.com/mon-marketing-so-82DDC6/bai-tap-de-thi-trac-nghiem-online-mon-marketing-so-de-08-15BFA6",
+    "https://vuaquiz.com/chia-se-tai-lieu",
+    "https://vuaquiz.com/mon-bien-tap-anh-BEECF2/bai-tap-de-thi-trac-nghiem-online-mon-bien-tap-anh-de-10-B7BF9A"
+  ],
+  "concurrency": 2,
+  "stayTime": 15,
+  "clickRate": 0.8,
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 8,
+    "successfulClicks": 8,
+    "failedClicks": 0,
+    "todayClicks": 8,
+    "lastResetDate": {
+      "$date": "2026-05-06T11:39:05.275Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T11:37:41.474Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T11:39:05.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb2981a75d0a5ddd57a1a5"
+  },
+  "name": "New Campaign",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/bang-xep-hang",
+    "https://vuaquiz.com/cong-dong",
+    "https://vuaquiz.com/mon-marketing-so-82DDC6/bai-tap-de-thi-trac-nghiem-online-mon-marketing-so-de-09-EBC488",
+    "https://vuaquiz.com/mon-marketing-so-82DDC6/bai-tap-de-thi-trac-nghiem-online-mon-marketing-so-de-08-15BFA6",
+    "https://vuaquiz.com/chia-se-tai-lieu",
+    "https://vuaquiz.com/mon-bien-tap-anh-BEECF2/bai-tap-de-thi-trac-nghiem-online-mon-bien-tap-anh-de-10-B7BF9A"
+  ],
+  "concurrency": 2,
+  "stayTime": 15,
+  "clickRate": 0.8,
+  "isActive": false,
+  "status": "idle",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T11:44:01.111Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T11:44:01.119Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T11:44:01.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb2985a75d0a5ddd57a1ac"
+  },
+  "name": "New Campaign",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/bang-xep-hang",
+    "https://vuaquiz.com/cong-dong",
+    "https://vuaquiz.com/mon-marketing-so-82DDC6/bai-tap-de-thi-trac-nghiem-online-mon-marketing-so-de-09-EBC488",
+    "https://vuaquiz.com/mon-marketing-so-82DDC6/bai-tap-de-thi-trac-nghiem-online-mon-marketing-so-de-08-15BFA6",
+    "https://vuaquiz.com/chia-se-tai-lieu",
+    "https://vuaquiz.com/mon-bien-tap-anh-BEECF2/bai-tap-de-thi-trac-nghiem-online-mon-bien-tap-anh-de-10-B7BF9A"
+  ],
+  "concurrency": 2,
+  "stayTime": 15,
+  "clickRate": 0.8,
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T11:44:05.947Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T11:44:05.948Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T11:44:05.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb29c802ffd09671ea2969"
+  },
+  "name": "New Campaign",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/bang-xep-hang",
+    "https://vuaquiz.com/cong-dong",
+    "https://vuaquiz.com/mon-marketing-so-82DDC6/bai-tap-de-thi-trac-nghiem-online-mon-marketing-so-de-09-EBC488",
+    "https://vuaquiz.com/mon-marketing-so-82DDC6/bai-tap-de-thi-trac-nghiem-online-mon-marketing-so-de-08-15BFA6",
+    "https://vuaquiz.com/chia-se-tai-lieu",
+    "https://vuaquiz.com/mon-bien-tap-anh-BEECF2/bai-tap-de-thi-trac-nghiem-online-mon-bien-tap-anh-de-10-B7BF9A"
+  ],
+  "concurrency": 1,
+  "stayTime": 15,
+  "clickRate": 0.8,
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T11:45:12.038Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T11:45:12.047Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T11:45:12.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb2ec34903109a19501675"
+  },
+  "name": "New Campaign",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com"
+  ],
+  "concurrency": 1,
+  "stayTime": 25,
+  "clickRate": 0.8,
+  "keyword": null,
+  "isActive": false,
+  "status": "idle",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T12:06:27.564Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T12:06:27.571Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T12:06:27.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb2ecd4903109a1950167d"
+  },
+  "name": "New Campaign",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com"
+  ],
+  "concurrency": 1,
+  "stayTime": 25,
+  "clickRate": 0.8,
+  "keyword": "vuaquiz",
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T12:07:45.467Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T12:06:37.028Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T12:07:45.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb2f79d2000244e899bd63"
+  },
+  "name": "New Campaign",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com"
+  ],
+  "concurrency": 1,
+  "stayTime": 25,
+  "clickRate": 0.8,
+  "keyword": "vuaquiz",
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T12:09:29.789Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T12:09:29.795Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T12:09:29.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb30e929cbb64eddbe7179"
+  },
+  "name": "New Campaign",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com"
+  ],
+  "concurrency": 1,
+  "stayTime": 25,
+  "clickRate": 0.8,
+  "keywords": null,
+  "isActive": false,
+  "status": "idle",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T12:15:37.364Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T12:15:37.372Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T12:15:37.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb30f029cbb64eddbe7180"
+  },
+  "name": "New Campaign",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com"
+  ],
+  "concurrency": 1,
+  "stayTime": 25,
+  "clickRate": 0.8,
+  "keywords": "VuaQuiz - Hệ Thống Ôn Thi Trắc Nghiệm Online Hiệu Quả\nvuaquiz",
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T12:15:44.198Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T12:15:44.202Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T12:15:44.202Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb322aebec4d608248d0f0"
+  },
+  "name": "New Campaign",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com"
+  ],
+  "concurrency": 1,
+  "stayTime": 25,
+  "clickRate": 0.8,
+  "keywords": "VuaQuiz - Hệ Thống Ôn Thi Trắc Nghiệm Online Hiệu Quả\nvuaquiz",
+  "isActive": false,
+  "status": "stopped",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T12:23:57.943Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T12:20:58.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T12:25:22.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb332febec4d608248d16b"
+  },
+  "name": "lần 1",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com",
+    "https://www.vuaquiz.com"
+  ],
+  "concurrency": 1,
+  "stayTime": 25,
+  "clickRate": 0.8,
+  "keywords": null,
+  "isActive": false,
+  "status": "idle",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T12:25:19.185Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T12:25:19.186Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T12:25:19.186Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb3332ebec4d608248d16e"
+  },
+  "name": "lần 1",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com",
+    "https://www.vuaquiz.com"
+  ],
+  "concurrency": 1,
+  "stayTime": 25,
+  "clickRate": 0.8,
+  "keywords": "VuaQuiz - Hệ Thống Ôn Thi Trắc Nghiệm Online Hiệu Quả\nvuaquiz",
+  "isActive": false,
+  "status": "stopped",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T12:26:15.038Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T12:25:22.273Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T12:26:51.210Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb338bebec4d608248d1a4"
+  },
+  "name": "lần 2",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com",
+    "https://www.vuaquiz.com"
+  ],
+  "concurrency": 1,
+  "stayTime": 25,
+  "clickRate": 0.8,
+  "keywords": "VuaQuiz - Hệ Thống Ôn Thi Trắc Nghiệm Online Hiệu Quả\nvuaquiz",
+  "isActive": false,
+  "status": "stopped",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T12:27:40.506Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T12:26:51.140Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T12:28:02.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb33d2ebec4d608248d1d2"
+  },
+  "name": "lần 2",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com",
+    "https://www.vuaquiz.com"
+  ],
+  "concurrency": 1,
+  "stayTime": 25,
+  "clickRate": 0.8,
+  "keywords": "VuaQuiz - Hệ Thống Ôn Thi Trắc Nghiệm Online Hiệu Quả\nvuaquiz",
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T12:28:26.523Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T12:28:02.348Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T12:28:26.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb34492eb313f89e0d4cf6"
+  },
+  "name": "lần 2",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com",
+    "https://www.vuaquiz.com"
+  ],
+  "concurrency": 1,
+  "stayTime": 20,
+  "clickRate": 0.8,
+  "keywords": "VuaQuiz - Hệ Thống Ôn Thi Trắc Nghiệm Online Hiệu Quả\nvuaquiz",
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T12:33:09.875Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T12:30:01.500Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T12:33:09.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb35ed2b8995e5794d8781"
+  },
+  "name": "lần 3",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com",
+    "https://www.vuaquiz.com",
+    "https://vuaquiz.com/dang-nhap",
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/tin-tuc",
+    "https://vuaquiz.com/cong-dong"
+  ],
+  "concurrency": 1,
+  "stayTime": 20,
+  "clickRate": 0.8,
+  "keywords": null,
+  "isActive": false,
+  "status": "idle",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T12:37:01.462Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T12:37:01.470Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T12:37:01.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb35f3f98d094fc40c77bf"
+  },
+  "name": "lần 3",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com",
+    "https://www.vuaquiz.com",
+    "https://vuaquiz.com/dang-nhap",
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/tin-tuc",
+    "https://vuaquiz.com/cong-dong"
+  ],
+  "concurrency": 1,
+  "stayTime": 20,
+  "clickRate": 0.8,
+  "keywords": "VuaQuiz - Hệ Thống Ôn Thi Trắc Nghiệm Online Hiệu Quả\nvuaquiz\nKho đề thi trực tuyến - VuaQuiz\ntin tức & hướng dẫn - VuaQuiz\nCộng đồng VuaQuiz - Kết nối Sĩ tử, Chia sẻ tri thức",
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T12:37:07.242Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T12:37:07.249Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T12:37:07.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb36223fc2ddfcfa2c2c11"
+  },
+  "name": "lần 3",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com",
+    "https://www.vuaquiz.com",
+    "https://vuaquiz.com/dang-nhap",
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/tin-tuc",
+    "https://vuaquiz.com/cong-dong"
+  ],
+  "concurrency": 1,
+  "stayTime": 20,
+  "clickRate": 0.8,
+  "keywords": "VuaQuiz - Hệ Thống Ôn Thi Trắc Nghiệm Online Hiệu Quả\nvuaquiz\nKho đề thi trực tuyến - VuaQuiz\ntin tức & hướng dẫn - VuaQuiz\nCộng đồng VuaQuiz - Kết nối Sĩ tử, Chia sẻ tri thức",
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T12:37:54.241Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T12:37:54.251Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T12:37:54.251Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb3888227ed333bc3fce28"
+  },
+  "name": "lần 3",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com",
+    "https://vuaquiz.com/dang-nhap",
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/tin-tuc",
+    "https://vuaquiz.com/cong-dong"
+  ],
+  "concurrency": 1,
+  "stayTime": 20,
+  "clickRate": 0.8,
+  "keywords": "VuaQuiz - Hệ Thống Ôn Thi Trắc Nghiệm Online Hiệu Quả\nvuaquiz\nKho đề thi trực tuyến - VuaQuiz\ntin tức & hướng dẫn - VuaQuiz\nCộng đồng VuaQuiz - Kết nối Sĩ tử, Chia sẻ tri thức",
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T12:48:08.473Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T12:48:08.480Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T12:48:08.480Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb39c9d9a0148945e69e89"
+  },
+  "name": "lần 3",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com",
+    "https://vuaquiz.com/dang-nhap",
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/tin-tuc",
+    "https://vuaquiz.com/cong-dong"
+  ],
+  "concurrency": 1,
+  "stayTime": 20,
+  "clickRate": 0.8,
+  "keywords": "VuaQuiz - Hệ Thống Ôn Thi Trắc Nghiệm Online Hiệu Quả\nvuaquiz\nKho đề thi trực tuyến - VuaQuiz\ntin tức & hướng dẫn - VuaQuiz\nCộng đồng VuaQuiz - Kết nối Sĩ tử, Chia sẻ tri thức",
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T12:53:29.704Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T12:53:29.712Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T12:53:29.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb3bb3ff09af14f65a0ba7"
+  },
+  "name": "lần 3",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com",
+    "https://vuaquiz.com/dang-nhap",
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/tin-tuc",
+    "https://vuaquiz.com/cong-dong"
+  ],
+  "concurrency": 1,
+  "stayTime": 20,
+  "clickRate": 0.8,
+  "keywords": "VuaQuiz - Hệ Thống Ôn Thi Trắc Nghiệm Online Hiệu Quả\nvuaquiz\nKho đề thi trực tuyến - VuaQuiz\ntin tức & hướng dẫn - VuaQuiz\nCộng đồng VuaQuiz - Kết nối Sĩ tử, Chia sẻ tri thức",
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T13:01:39.480Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T13:01:39.492Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T13:01:39.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb3ca7704ce62583836c5e"
+  },
+  "name": "lần 3",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com",
+    "https://vuaquiz.com/dang-nhap",
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/tin-tuc",
+    "https://vuaquiz.com/cong-dong"
+  ],
+  "concurrency": 1,
+  "stayTime": 20,
+  "clickRate": 0.8,
+  "keywords": "VuaQuiz - Hệ Thống Ôn Thi Trắc Nghiệm Online Hiệu Quả\nvuaquiz\nKho đề thi trực tuyến - VuaQuiz\ntin tức & hướng dẫn - VuaQuiz\nCộng đồng VuaQuiz - Kết nối Sĩ tử, Chia sẻ tri thức",
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T13:05:43.648Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T13:05:43.655Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T13:05:43.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb3dfe3c93c5a8a580f1f8"
+  },
+  "name": "lần 3",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com",
+    "https://vuaquiz.com/dang-nhap",
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/tin-tuc",
+    "https://vuaquiz.com/cong-dong"
+  ],
+  "concurrency": 1,
+  "stayTime": 20,
+  "clickRate": 0.8,
+  "keywords": "VuaQuiz - Hệ Thống Ôn Thi Trắc Nghiệm Online Hiệu Quả\nvuaquiz\nKho đề thi trực tuyến - VuaQuiz\ntin tức & hướng dẫn - VuaQuiz\nCộng đồng VuaQuiz - Kết nối Sĩ tử, Chia sẻ tri thức",
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T13:11:26.157Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T13:11:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T13:11:26.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb3ec4bd99ea483a7429b3"
+  },
+  "name": "lần 3",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com",
+    "https://vuaquiz.com/dang-nhap",
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/tin-tuc",
+    "https://vuaquiz.com/cong-dong"
+  ],
+  "concurrency": 1,
+  "stayTime": 20,
+  "clickRate": 0.8,
+  "keywords": "VuaQuiz - Hệ Thống Ôn Thi Trắc Nghiệm Online Hiệu Quả\nvuaquiz\nKho đề thi trực tuyến - VuaQuiz\ntin tức & hướng dẫn - VuaQuiz\nCộng đồng VuaQuiz - Kết nối Sĩ tử, Chia sẻ tri thức",
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T13:14:44.188Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T13:14:44.196Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T13:14:44.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb3f409d413ebb7119955d"
+  },
+  "name": "lần 3",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com",
+    "https://vuaquiz.com/dang-nhap",
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/tin-tuc",
+    "https://vuaquiz.com/cong-dong"
+  ],
+  "concurrency": 1,
+  "stayTime": 20,
+  "clickRate": 0.8,
+  "keywords": "VuaQuiz - Hệ Thống Ôn Thi Trắc Nghiệm Online Hiệu Quả\nvuaquiz\nKho đề thi trực tuyến - VuaQuiz\ntin tức & hướng dẫn - VuaQuiz\nCộng đồng VuaQuiz - Kết nối Sĩ tử, Chia sẻ tri thức",
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T13:16:48.522Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T13:16:48.528Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T13:16:48.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb41b4a6115df8cbddf84c"
+  },
+  "name": "lần 3",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com",
+    "https://vuaquiz.com/dang-nhap",
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/tin-tuc",
+    "https://vuaquiz.com/cong-dong"
+  ],
+  "concurrency": 2,
+  "stayTime": 20,
+  "clickRate": 0.8,
+  "keywords": "VuaQuiz - Hệ Thống Ôn Thi Trắc Nghiệm Online Hiệu Quả\nvuaquiz\nKho đề thi trực tuyến - VuaQuiz\ntin tức & hướng dẫn - VuaQuiz\nCộng đồng VuaQuiz - Kết nối Sĩ tử, Chia sẻ tri thức",
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T13:33:32.498Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T13:27:16.488Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T13:33:32.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb4341e808c1b86a6206c4"
+  },
+  "name": "lần 3",
+  "targetDomain": "https://vuaquiz.com",
+  "urls": [
+    "https://vuaquiz.com",
+    "https://vuaquiz.com/dang-nhap",
+    "https://vuaquiz.com/danh-sach-de-thi",
+    "https://vuaquiz.com/tin-tuc",
+    "https://vuaquiz.com/cong-dong"
+  ],
+  "concurrency": 1,
+  "stayTime": 20,
+  "clickRate": 0.8,
+  "keywords": "VuaQuiz - Hệ Thống Ôn Thi Trắc Nghiệm Online Hiệu Quả\nvuaquiz\nKho đề thi trực tuyến - VuaQuiz\ntin tức & hướng dẫn - VuaQuiz\nCộng đồng VuaQuiz - Kết nối Sĩ tử, Chia sẻ tri thức",
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T13:33:53.757Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T13:33:53.764Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T13:33:53.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb52c27bf6a977df9c6d7d"
+  },
+  "name": "vuaquiz1",
+  "keywords": "vuaqui",
+  "concurrency": 1,
+  "stayTime": 25,
+  "clickRate": 0.8,
+  "clickMode": "first",
+  "isActive": false,
+  "status": "idle",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T14:40:02.710Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T14:40:02.718Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T14:40:02.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb52cc7bf6a977df9c6d84"
+  },
+  "name": "vuaquiz1",
+  "keywords": "vuaqui",
+  "concurrency": 1,
+  "stayTime": 25,
+  "clickRate": 0.8,
+  "clickMode": "first",
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T14:40:12.305Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T14:40:12.307Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T14:40:12.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb53decf68e9fee35c8a15"
+  },
+  "name": "vuaquiz1",
+  "keywords": "vuaqui",
+  "concurrency": 1,
+  "stayTime": 25,
+  "clickRate": 0.8,
+  "clickMode": "first",
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T14:44:46.602Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T14:44:46.610Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T14:44:46.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb53ecff1ea5f8ada72bc9"
+  },
+  "name": "vuaquiz1",
+  "keywords": "vuaqui",
+  "concurrency": 1,
+  "stayTime": 25,
+  "clickRate": 0.8,
+  "clickMode": "first",
+  "isActive": false,
+  "status": "paused",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T14:47:43.642Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T14:45:00.926Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T14:47:43.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb53edff1ea5f8ada72bcb"
+  },
+  "name": "vuaquiz1",
+  "keywords": "vuaqui",
+  "concurrency": 1,
+  "stayTime": 25,
+  "clickRate": 0.8,
+  "clickMode": "first",
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T14:45:01.005Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T14:45:01.006Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T14:45:01.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb54fa47453b6b787a79d3"
+  },
+  "name": "vuaquiz1",
+  "keywords": "vuaqui",
+  "concurrency": 1,
+  "stayTime": 25,
+  "clickRate": 0.8,
+  "clickMode": "first",
+  "isActive": true,
+  "status": "running",
+  "stats": {
+    "totalClicks": 0,
+    "successfulClicks": 0,
+    "failedClicks": 0,
+    "todayClicks": 0,
+    "lastResetDate": {
+      "$date": "2026-05-06T14:49:30.509Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2026-05-06T14:49:30.522Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T14:49:30.522Z"
+  },
+  "__v": 0
+}]

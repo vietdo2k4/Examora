@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "69f76873afd11e4c3abdfdd8"
+  },
+  "id_hoc_sinh": {
+    "$oid": "69f5e2501e7ede7882930481"
+  },
+  "id_bai_giang": {
+    "$oid": "69f765615d4502326e4998e3"
+  },
+  "id_giao_vien": {
+    "$oid": "69f4e022019d2965e7e5f4b3"
+  },
+  "id_lop_hoc": {
+    "$oid": "69f634b95dc03d28a5bfcb2e"
+  },
+  "so_tien_da_thanh_toan": 0,
+  "trang_thai": "dang_hoc",
+  "ngay_mua": {
+    "$date": "2026-05-03T15:23:31.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f803be020b84b22e9ebe01"
+  },
+  "id_hoc_sinh": {
+    "$oid": "69f5e2501e7ede7882930481"
+  },
+  "id_bai_giang": {
+    "$oid": "69f802f2020b84b22e9ebd88"
+  },
+  "id_giao_vien": {
+    "$oid": "69f4e022019d2965e7e5f4b3"
+  },
+  "id_lop_hoc": {
+    "$oid": "69f6a87b5a5c6293fcb672dc"
+  },
+  "so_tien_da_thanh_toan": 0,
+  "trang_thai": "da_hoan_thanh",
+  "ngay_mua": {
+    "$date": "2026-05-04T02:26:06.295Z"
+  },
+  "__v": 0
+}]
